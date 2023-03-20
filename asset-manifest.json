@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/constructor-dnd/static/css/main.b7cedd37.css",
+    "main.js": "/constructor-dnd/static/js/main.625755be.js",
+    "static/media/defaultImg.jpg": "/constructor-dnd/static/media/defaultImg.37882883428f69ce407a.jpg",
+    "static/media/icons.svg": "/constructor-dnd/static/media/icons.ed55492f3d2bf506ebedf546c9e0e058.svg",
+    "index.html": "/constructor-dnd/index.html",
+    "main.b7cedd37.css.map": "/constructor-dnd/static/css/main.b7cedd37.css.map",
+    "main.625755be.js.map": "/constructor-dnd/static/js/main.625755be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7cedd37.css",
+    "static/js/main.625755be.js"
+  ]
+}
